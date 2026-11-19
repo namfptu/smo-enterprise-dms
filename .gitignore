@@ -1,0 +1,13 @@
+﻿# Frontend
+node_modules/
+dist/
+build/
+.env
+frontend/.env
+
+# Backend (.NET)
+bin/
+obj/
+.vs/
+Backend/appsettings.json
+Backend/appsettings.Development.json
